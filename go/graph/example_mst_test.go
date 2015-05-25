@@ -2,7 +2,7 @@ package graph_test
 
 import (
 	"fmt"
-	"github.com/twmb/algoimpl/go/graph"
+	"github.com/koofr/algoimpl/go/graph"
 )
 
 func ExampleGraph_MinimumSpanningTree() {

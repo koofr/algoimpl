@@ -1,7 +1,7 @@
 package various_test
 
 import (
-	"github.com/twmb/algoimpl/go/various"
+	"github.com/koofr/algoimpl/go/various"
 	"testing"
 )
 

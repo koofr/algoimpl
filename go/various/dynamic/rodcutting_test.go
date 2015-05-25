@@ -1,7 +1,7 @@
 package dynamic_test
 
 import (
-	"github.com/twmb/algoimpl/go/various/dynamic"
+	"github.com/koofr/algoimpl/go/various/dynamic"
 	"testing"
 )
 

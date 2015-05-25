@@ -2,10 +2,11 @@ package graph
 
 import (
 	"errors"
-	"github.com/twmb/algoimpl/go/graph/lite"
 	"math/rand"
 	"sort"
 	"sync"
+
+	"github.com/koofr/algoimpl/go/graph/lite"
 )
 
 const (
