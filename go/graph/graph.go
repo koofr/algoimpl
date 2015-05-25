@@ -47,6 +47,14 @@ type Node struct {
 	Value *interface{}
 }
 
+func (n *Node) DegreeOut() int {
+	return len(n.node.edges)
+}
+
+func (n *Node) DegreeIn() int {
+	return len(n.node.reversedEdges)
+}
+
 type edge struct {
 	weight int
 	end    *node
